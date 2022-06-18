@@ -123,7 +123,7 @@ namespace Name_Sorter
                 }
                 else if (partsOfName.Length == 4)
                 {
-                    names[namei] = new Name { firstname1 = partsOfName[0], firstname2 = partsOfName[3], firstname3 = partsOfName[2], surname = partsOfName[3] };
+                    names[namei] = new Name { firstname1 = partsOfName[0], firstname2 = partsOfName[1], firstname3 = partsOfName[2], surname = partsOfName[3] };
                 }
                 else
                 {
