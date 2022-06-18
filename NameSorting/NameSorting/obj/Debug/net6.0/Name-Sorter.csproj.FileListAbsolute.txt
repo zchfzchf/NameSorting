@@ -1,0 +1,15 @@
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\bin\Debug\net6.0\Name-Sorter.exe
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\bin\Debug\net6.0\Name-Sorter.deps.json
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\bin\Debug\net6.0\Name-Sorter.runtimeconfig.json
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\bin\Debug\net6.0\Name-Sorter.dll
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\bin\Debug\net6.0\Name-Sorter.pdb
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\Name-Sorter.csproj.AssemblyReference.cache
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\Name-Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\Name-Sorter.AssemblyInfoInputs.cache
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\Name-Sorter.AssemblyInfo.cs
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\Name-Sorter.csproj.CoreCompileInputs.cache
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\Name-Sorter.dll
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\refint\Name-Sorter.dll
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\Name-Sorter.pdb
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\Name-Sorter.genruntimeconfig.cache
+C:\ZWW_CSharp\NameSorting\NameSorting\NameSorting\obj\Debug\net6.0\ref\Name-Sorter.dll
